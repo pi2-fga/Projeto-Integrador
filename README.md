@@ -9,7 +9,7 @@ Todos os seus repositorios devem ser linkados ao time criado.
 
 #### 2. Nome dos repositorios
 
-Formato: ano&semestre-nomeDoProjeto-nomeDoRepositorio
+Formato: ano&semestre-NomeDoProjeto-NomeDoRepositorio
 Exemplo: 201901-SmartWay-Treinamento
 
 #### 3. Descrição do projeto
