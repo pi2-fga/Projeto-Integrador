@@ -23,4 +23,5 @@ Tem que ter uma pequena descrição do projeto
 * Descrição do projeto
 * Processo de instalação passo a passo
 * Como usar
+* Documentar a API (endpoints, entradas e saidas)
 
